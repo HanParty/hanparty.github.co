@@ -2,18 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 漢黨Han Party</title>
-    <link>https://hanparty.github.io/zh-tw/posts/</link>
+    <link>https://hanparty.cn/zh-tw/posts/</link>
     <description>Recent content in Posts on 漢黨Han Party</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>&amp;copy; 2020 漢黨 Han Party</copyright>
-    <lastBuildDate>Thu, 04 Feb 2021 09:43:28 +0800</lastBuildDate><atom:link href="https://hanparty.github.io/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 May 2021 16:39:43 +0800</lastBuildDate><atom:link href="https://hanparty.cn/zh-tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>漢與華夏</title>
+      <link>https://hanparty.cn/zh-tw/posts/hanyuhuaxia/</link>
+      <pubDate>Fri, 28 May 2021 16:39:43 +0800</pubDate>
+      
+      <guid>https://hanparty.cn/zh-tw/posts/hanyuhuaxia/</guid>
+      <description>華夏與漢，二者乃同名而异時之名。
+華亦曰“夏”、“夏”，亦曰華。華與夏相通，“夏”，又謂之“華”。
+漢：原指天河、宇宙之河，《詩》雲：“維天有漢，監亦有光”。漢舊稱漢人，因漢朝而得其名，漢朝之後，內外皆稱漢人，漢朝之前，稱華、夏、華夏。</description>
+    </item>
+    
     <item>
       <title>小歲</title>
-      <link>https://hanparty.github.io/zh-tw/posts/xiaonian/</link>
+      <link>https://hanparty.cn/zh-tw/posts/xiaonian/</link>
       <pubDate>Thu, 04 Feb 2021 09:43:28 +0800</pubDate>
       
-      <guid>https://hanparty.github.io/zh-tw/posts/xiaonian/</guid>
+      <guid>https://hanparty.cn/zh-tw/posts/xiaonian/</guid>
       <description>小歲
 今日小歲，陰曆臘月廿三，每歲至此，家家戶戶掃衛生、置年貨，年愈濃味，過了小歲便是年，小歲為正旦彩排，寄國人辭舊迎新、迎祥祜之美願。
 小歲俗有灶王、貼窗花、貼春聯、掃塵、婚嫁、食麻糖、吃餃子。

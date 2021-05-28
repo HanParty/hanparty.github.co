@@ -3,213 +3,233 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hanparty.github.io/articles/</loc>
-    <lastmod>2021-02-22T10:58:17+08:00</lastmod>
+    <loc>https://hanparty.cn/posts/hanyuhuaxia/</loc>
+    <lastmod>2021-05-28T16:48:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/articles/"
+                href="https://hanparty.cn/zh-cn/posts/hanyuhuaxia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/articles/"
+                href="https://hanparty.cn/zh-tw/posts/hanyuhuaxia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/articles/"
+                href="https://hanparty.cn/posts/hanyuhuaxia/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/articles/huangli/</loc>
-    <lastmod>2021-02-22T10:58:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/articles/huangli/"
-                />
+    <loc>https://hanparty.cn/posts/</loc>
+    <lastmod>2021-05-28T16:48:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/articles/huangli/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hanparty.github.io/articles/huangli/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hanparty.github.io/</loc>
-    <lastmod>2021-02-22T10:58:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/"
+                href="https://hanparty.cn/zh-cn/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/"
+                href="https://hanparty.cn/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/"
+                href="https://hanparty.cn/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/posts/</loc>
+    <loc>https://hanparty.cn/</loc>
+    <lastmod>2021-05-28T16:48:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hanparty.cn/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hanparty.cn/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hanparty.cn/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hanparty.cn/articles/</loc>
+    <lastmod>2021-02-22T10:58:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hanparty.cn/zh-cn/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hanparty.cn/zh-tw/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hanparty.cn/articles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hanparty.cn/articles/huangli/</loc>
+    <lastmod>2021-02-22T10:58:17+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hanparty.cn/zh-tw/articles/huangli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://hanparty.cn/zh-cn/articles/huangli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hanparty.cn/articles/huangli/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hanparty.cn/posts/xiaosui/</loc>
     <lastmod>2021-02-04T09:43:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/posts/"
+                href="https://hanparty.cn/zh-cn/posts/xiaosui/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/posts/"
+                href="https://hanparty.cn/posts/xiaosui/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/posts/xiaosui/</loc>
-    <lastmod>2021-02-04T09:43:28+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/posts/xiaosui/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hanparty.github.io/posts/xiaosui/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hanparty.github.io/communication/</loc>
+    <loc>https://hanparty.cn/communication/</loc>
     <lastmod>2021-02-01T10:37:28+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/communication/"
+                href="https://hanparty.cn/zh-cn/communication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/communication/"
+                href="https://hanparty.cn/zh-tw/communication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/communication/"
+                href="https://hanparty.cn/communication/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/about/</loc>
+    <loc>https://hanparty.cn/about/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/about/"
+                href="https://hanparty.cn/zh-cn/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/about/"
+                href="https://hanparty.cn/zh-tw/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/about/"
+                href="https://hanparty.cn/about/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/authors/</loc>
+    <loc>https://hanparty.cn/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/authors/"
+                href="https://hanparty.cn/zh-cn/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/authors/"
+                href="https://hanparty.cn/zh-tw/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/authors/"
+                href="https://hanparty.cn/authors/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/categories/</loc>
+    <loc>https://hanparty.cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/categories/"
+                href="https://hanparty.cn/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/categories/"
+                href="https://hanparty.cn/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/categories/"
+                href="https://hanparty.cn/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/series/</loc>
+    <loc>https://hanparty.cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/series/"
+                href="https://hanparty.cn/zh-cn/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/series/"
+                href="https://hanparty.cn/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/series/"
+                href="https://hanparty.cn/series/"
                 />
   </url>
   
   <url>
-    <loc>https://hanparty.github.io/tags/</loc>
+    <loc>https://hanparty.cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://hanparty.github.io/zh-cn/tags/"
+                href="https://hanparty.cn/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://hanparty.github.io/zh-tw/tags/"
+                href="https://hanparty.cn/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hanparty.github.io/tags/"
+                href="https://hanparty.cn/tags/"
                 />
   </url>
   
