@@ -2,23 +2,23 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://hanparty.github.io/en/sitemap.xml</loc>
+    <loc>https://hanparty.cn/en/sitemap.xml</loc>
     
-      <lastmod>2021-02-22T10:58:17+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://hanparty.github.io/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2021-02-22T10:58:17+08:00</lastmod>
+      <lastmod>2021-05-28T16:48:03+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://hanparty.github.io/zh-tw/sitemap.xml</loc>
+    <loc>https://hanparty.cn/zh-cn/sitemap.xml</loc>
     
-      <lastmod>2021-02-22T10:58:17+08:00</lastmod>
+      <lastmod>2021-05-28T16:52:37+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hanparty.cn/zh-tw/sitemap.xml</loc>
+    
+      <lastmod>2021-05-28T16:39:43+08:00</lastmod>
     
   </sitemap>
   
